@@ -6,6 +6,7 @@
 
 * [Solidity](solidarity/solidity.md)
 * [Ethereum](solidarity/ethereum.md)
+* [Structure of a Contract](solidarity/structure-of-a-contract.md)
 
 ## NFT's
 
