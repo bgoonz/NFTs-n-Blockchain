@@ -7,6 +7,10 @@ description: >-
 
 # Solidity
 
+## IDE \(to practice with\)
+
+{% embed url="https://remix.ethereum.org/\#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js" %}
+
 
 
 ## Solidity
@@ -51,7 +55,7 @@ Hint
 
 You can try out code examples directly in your browser with the [Remix IDE](https://remix.ethereum.org/). Remix is a web browser based IDE that allows you to write, deploy and administer Solidity smart contracts, without the need to install Solidity locally.
 
-Warning
+W
 
 As humans write software, it can have bugs. You should follow established software development best-practices when writing your smart contracts. This includes code review, testing, audits, and correctness proofs. Smart contract users are sometimes more confident with code than their authors, and blockchains and smart contracts have their own unique issues to watch out for, so before working on production code, make sure you read the [Security Considerations](https://docs.soliditylang.org/en/v0.8.7/security-considerations.html#security-considerations) section.
 
