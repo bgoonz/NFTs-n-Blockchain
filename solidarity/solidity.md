@@ -61,10 +61,6 @@ If you want to learn more about building decentralized applications on Ethereum,
 
 If you have any questions, you can try searching for answers or asking on the [Ethereum StackExchange](https://ethereum.stackexchange.com/), or our [Gitter channel](https://gitter.im/ethereum/solidity/).
 
-### Translations
-
-Community volunteers help translate this documentation into several languages. They have varying degrees of completeness and up-to-dateness. The English version stands as a reference.
-
 
 
 ## Contents
