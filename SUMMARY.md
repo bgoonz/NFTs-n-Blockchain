@@ -21,7 +21,7 @@
 
 ## Misc
 
-* [Untitled](misc/untitled.md)
+* [Misc](misc/untitled.md)
 
 ## Practice
 
