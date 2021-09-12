@@ -65,9 +65,9 @@ If you have any questions, you can try searching for answers or asking on the [E
 
 ## Contents
 
-[Keyword Index](https://docs.soliditylang.org/en/v0.8.7/genindex.html), [Search Page](https://docs.soliditylang.org/en/v0.8.7/search.html)
 
-Basics
+
+### Basics
 
 * [Introduction to Smart Contracts](https://docs.soliditylang.org/en/v0.8.7/introduction-to-smart-contracts.html)
   * [A Simple Smart Contract](https://docs.soliditylang.org/en/v0.8.7/introduction-to-smart-contracts.html#a-simple-smart-contract)
