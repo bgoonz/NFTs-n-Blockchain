@@ -65,18 +65,7 @@ If you have any questions, you can try searching for answers or asking on the [E
 
 Community volunteers help translate this documentation into several languages. They have varying degrees of completeness and up-to-dateness. The English version stands as a reference.
 
-Note
 
-We recently set up a new GitHub organization and translation workflow to help streamline the community efforts. Please refer to the [translation guide](https://github.com/solidity-docs/translation-guide) for information on how to contribute to the community translations moving forward.
-
-* [French](https://solidity-fr.readthedocs.io/) \(in progress\)
-* [Italian](https://github.com/damianoazzolini/solidity) \(in progress\)
-* [Japanese](https://solidity-jp.readthedocs.io/)
-* [Korean](https://solidity-kr.readthedocs.io/) \(in progress\)
-* [Russian](https://github.com/ethereum/wiki/wiki/%5BRussian%5D-%D0%A0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%BF%D0%BE-Solidity) \(rather outdated\)
-* [Simplified Chinese](https://learnblockchain.cn/docs/solidity/) \(in progress\)
-* [Spanish](https://solidity-es.readthedocs.io/)
-* [Turkish](https://github.com/denizozzgur/Solidity_TR/blob/master/README.md) \(partial\)
 
 ## Contents
 
